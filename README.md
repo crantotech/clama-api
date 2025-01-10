@@ -1,2 +1,3 @@
-# clama-api
-An open-source LangGraph API for Clama Agents
+# Clama API
+
+An open-source API for Clama Agents
